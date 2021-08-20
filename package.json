@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/fullbloom.lwc-ksjxm2iz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 0UqsiF8KE66Y13Ca2UOF --open"
+  }
+}
